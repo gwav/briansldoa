@@ -41,7 +41,7 @@
       "path": "languages/ru.json"
     }
   ],
-  "url": "https://github.com/free-beer/briansldoa",
+  "url": "https://github.com/gwav/briansldoa.git",
   "relationships": {
     "systems": [],
     "requires": []
