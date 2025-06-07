@@ -4,12 +4,12 @@
   "description": "Hybred of 5e + OSE + Black Sword Hack",
   "authors": [
     {
-      "name": "Brian Scott",
-      "url": ""
+      "name": "Brian Scott"
+//      "url": ""
     },
     {
-      "name": "Gary Allgeier",
-      "url": ""
+      "name": "Gary Allgeier"
+//      "url": ""
     }
   ],
   "version": "1.0.0",
