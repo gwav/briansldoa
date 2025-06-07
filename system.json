@@ -1,0 +1,51 @@
+{
+  "id": "briansldoa",
+  "title": "Last Days of Atlantis",
+  "description": "Hybred of 5e + OSE + Black Sword Hack",
+  "authors": [
+    {
+      "name": "Brian Scott",
+      "url": ""
+    },
+    {
+      "name": "Gary Allgeier",
+      "url": ""
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 13,
+    "verified": "13"
+  },
+  "esmodules": [ "briansldoa.js" ],
+  "styles": [ "briansldoa.css" ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    },
+    {
+      "lang": "es",
+      "name": "Spanish",
+      "path": "languages/es.json"
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "languages/fr.json"
+    },
+    {
+      "lang": "ru",
+      "name": "Russian",
+      "path": "languages/ru.json"
+    }
+  ],
+  "url": "https://github.com/free-beer/briansldoa",
+  "relationships": {
+    "systems": [],
+    "requires": []
+  },
+  "manifest": "https://raw.githubusercontent.com/gwav/briansldoa/refs/heads/master/system.json",
+  "download": "https://raw.githubusercontent.com/gwav/briansldoa/refs/heads/master/system.json"
+}
